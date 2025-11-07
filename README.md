@@ -1,21 +1,103 @@
-👋 مرحباً، أنا محمد عصام الفيشاوي
-👨‍💻 مطور واجهات أمامية | Front-End React.js Developer
-💼 نبذة عني
-أنا مطور واجهات أمامية متخصص في بناء تطبيقات ويب ديناميكية وسريعة الاستجابة باستخدام أحدث التقنيات. أمتلك خبرة في بناء واجهات مستخدم عصرية باستخدام React.js و Next.js، مع التركيز على تقديم تجربة مستخدم سلسة، كتابة كود نظيف وقابل للتطوير، وتحسين أداء التطبيقات. شغوف بالعمل ضمن فرق تتبع منهجيات Agile وتحقيق أهداف المشروع بكفاءة.
-🏆 إنجازاتي
-قمت بتطوير متجر إلكتروني متكامل لشركة سعودية، مع دعم كامل للغة العربية (RTL) ونظام الوضع الليلي والنهاري.
-قدتُ فريق عمل لتطوير نظام متكامل لإدارة الموارد البشرية (HR System) يشمل صلاحيات مختلفة للمستخدمين.
-بنيت لوحة تحكم لإدارة المنتجات (CRUD) بتصميم عصري وتجربة مستخدم سهلة.
-ساهمت في تحسين واجهات المستخدم وتجربة الاستخدام للعديد من المشاريع.
-🛠 التقنيات التي أستخدمها
-![alt text](https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,materialui,sass,git,github,figma,postman)
-💡 مشاريع مميزة
-FUJI FD - متجر إلكتروني للمصاعد: تطبيق ويب تفاعلي مبني بـ React.js و Tailwind CSS. يشمل كتالوج منتجات، عربة تسوق، ونظام طلبات عبر الواتساب. تم تحسينه لمحركات البحث (SEO) ويدعم اللغتين العربية والإنجليزية.
-HR System - نظام إدارة الموارد البشرية: منصة لإدارة الموظفين، الحضور، الرواتب، والتقارير. يتميز النظام بصلاحيات وصول مختلفة (Admin, HR, Employee) لضمان أمان البيانات وسهولة سير العمل.
-Product Management - لوحة تحكم للمنتجات: لوحة تحكم كاملة لإدارة المنتجات (إضافة، عرض، تعديل، حذف) مع واجهة مستخدم حديثة وتفاعلية مبنية باستخدام React و TypeScript.
-📊 إحصائيات GitHub
-![alt text](https://github-readme-stats.vercel.app/api?username=MohamedEssamElfeshawy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-ملاحظة: الرجاء تغيير MohamedEssamElfeshawy إلى اسم المستخدم الخاص بك على GitHub.
-🌐 تواصل معي
-بريد إلكتروني: melfeshawy42@gmail.com
-لينكدإن: Mohamed Essam Elfeshawy
+# 👋 مرحباً، أنا محمد عصام الفيشاوي
+
+### 👨‍💻 مطور واجهات أمامية متخصص في React.js | Front-End React.js Developer
+
+مطور واجهات أمامية متخصص في بناء تطبيقات ويب قابلة للتطوير وعالية الأداء باستخدام **React** و **Next.js**. أمتلك شغفًا بتحويل الأفكار المعقدة إلى تجارب مستخدم بسيطة وجذابة، مع التركيز على كتابة كود نظيف وموثوق. أبحث دائمًا عن فرص للمساهمة في مشاريع مبتكرة وتحديات تقنية جديدة.
+
+- 🔭 أعمل حاليًا على صقل مهاراتي في تحسين أداء تطبيقات Next.js.
+- 🌱 أتعلم المزيد عن أنماط التصميم المتقدمة و State Management.
+- 👯 أبحث عن التعاون في مشاريع مفتوحة المصدر تتعلق بـ React.
+- 📫 كيفية الوصول إليّ: [melfeshawy42@gmail.com](mailto:melfeshawy42@gmail.com)
+
+---
+
+## 🛠️ صندوق الأدوات التقني (My Tech Stack)
+
+#### Frontend Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### State Management
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+
+#### Styling & UI
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+#### Tools & Ecosystem
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 💡 مشاريع مميزة (Featured Projects)
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">FUJI FD - متجر إلكتروني للمصاعد</h3>
+      <div align="center">
+        <p>تطبيق ويب تفاعلي لشركة مصاعد سعودية. تم بناء واجهة مستخدم عصرية مع التركيز على تجربة المستخدم ودعم كامل للغة العربية (RTL).</p>
+        <strong>الخصائص الرئيسية:</strong>
+        <ul>
+          <li>كتالوج منتجات ديناميكي.</li>
+          <li>دعم لغتين (عربي/إنجليزي).</li>
+          <li>نظام الوضع الليلي/النهاري.</li>
+          <li>تحسين لمحركات البحث (SEO).</li>
+        </ul>
+        <p><strong>التقنيات المستخدمة:</strong> React.js, Tailwind CSS, JavaScript (ES6+)</p>
+        <div align="center">
+          <a href="#">🔗 رابط المشروع</a>
+        </div>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">HR System - نظام إدارة الموارد البشرية</h3>
+      <div align="center">
+        <p>منصة ويب متكاملة لإدارة شؤون الموظفين، تهدف إلى تحسين الكفاءة وأتمتة العمليات الإدارية.</p>
+        <strong>الخصائص الرئيسية:</strong>
+        <ul>
+          <li>نظام صلاحيات للمستخدمين (Admin, HR).</li>
+          <li>إدارة بيانات الموظفين والحضور.</li>
+          <li>لوحات تحكم تفاعلية.</li>
+          <li>تركيز على أمان البيانات.</li>
+        </ul>
+        <p><strong>التقنيات المستخدمة:</strong> React.js, [أضف باقي التقنيات]</p>
+        <div align="center">
+          <a href="#">🔗 رابط المشروع</a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 إحصائياتي على GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedEssamElfeshawy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohamed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEssamElfeshawy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🌐 تواصل معي (Let's Connect)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-essam-elfeshawy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:melfeshawy42@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
